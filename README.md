@@ -3,6 +3,6 @@
 •	Pedro Omar Rojo - https://github.com/tecnosisnet :heavy_check_mark:
 
 # INDICE DE TRABAJOS PRACTICOS :
-
+•	Trabajo Práctico Nro 1 
 
 
