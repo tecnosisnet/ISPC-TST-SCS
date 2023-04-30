@@ -2,6 +2,9 @@
 # Sistemas de Control y Servicios  -  Profesor: Gonzalo Vera
 •	Pedro Omar Rojo - https://github.com/tecnosisnet :heavy_check_mark:
 
+# PROYECTOS GRUPALES:
+• Proyecto 1: https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-1-grupo-1
+
 # INDICE DE TRABAJOS PRACTICOS :
 •	Trabajo Práctico Nro 1:  https://github.com/tecnosisnet/ISPC-TST-SCS/tree/main/TP1
 
